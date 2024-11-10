@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">reminder</string>
+    <string name="main_screen_title">TestReminder</string>
+    <string name="add_task_hint_text">Add your first Task first…</string>
+    <string name="notification_text">Hurry up! Don`t forger your task :)</string>
+    <string name="notification_title">Notification Title</string>
+    <string name="notification_message">Notification Message</string>
+    <string name="simplyremind">SIMPLYREMIND</string>
+    <string name="background_desc">background</string>
+    <string name="cancel_desc">cancel</string>
+    <string name="title_placeholder">Title</string>
+    <string name="pen_icon_desc">pen icon</string>
+    <string name="insert_title_placeholder">Insert Title</string>
+    <string name="time">Time</string>
+    <string name="clock_icon_desc">clock icon</string>
+    <string name="date">Date</string>
+    <string name="calendar_icon_desc">calendar icon</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_icon_desc">repeat icon</string>
+    <string name="dropdown_icon_desc">Custom dropdown icon</string>
+    <string name="title_add_text">Make your own Reminder.</string>
+    <string name="add_task_button_text">Add task</string>
+    <string name="add_button_desc">add button</string>
+    <string name="arrow_desc">arrow</string>
+    <string name="base_image_desc">base image</string>
+    <string name="add_button">add button</string>
+    <string name="overflow_menu_desc">Overflow menu</string>
+    <string name="edit_button_text">Edit...</string>
+    <string name="delete_button_text">Delete...</string>
+</resources>
